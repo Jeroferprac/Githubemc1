@@ -1,3 +1,0 @@
-test3.txt file created
-
-now modifiedgit add
